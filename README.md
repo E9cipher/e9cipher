@@ -3,6 +3,7 @@
 
 Here are some ideas to get you started:-->
 
+- 👋 My name is **Enric, but I prefer to be called by my nick**
 - 🔭 I’m currently working on **PHP webpages and LaTex**
 - 🌱 I’m currently learning **how to make graphics with TikZ**
 - 👯 I’m looking to collaborate on **the frontend of projects**
